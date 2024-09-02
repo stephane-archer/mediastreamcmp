@@ -13,8 +13,8 @@
 ```bash
 mediastreamcmp <file1> <file2>
 ```
-- <file1>: The first media file to compare.
-- <file2>: The second media file to compare.
+- `<file1>`: The first media file to compare.
+- `<file2>`: The second media file to compare.
 
 # Example
 
